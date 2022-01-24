@@ -1,6 +1,7 @@
 # Node & Express Demo App for Azure DevOps
 
 > Build Your First CI/CD Pipeline using Azure DevOps with this Demo App.
+> [![Build Status](https://winwire.visualstudio.com/Logistyx/_apis/build/status/fazil-rf.node-express-azure?branchName=master)](https://winwire.visualstudio.com/Logistyx/_build/latest?definitionId=350&branchName=master)
 
 This is a Node and Express web application used to demonstrate CI/CD with Azure DevOps. You can clone this repo and use it within Azure DevOps to build, test, and release to an Azure App Service web app.
 
